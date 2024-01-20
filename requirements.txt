@@ -1,0 +1,3 @@
+streamlit #using it for the front end
+google-generativeai # model we are going to use for gemini model
+python-dotenv # upload the environment variables
